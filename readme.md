@@ -1,4 +1,4 @@
-<div style='background: #041820; text-align: center; padding: 10px';>
+<div align='center'>
 
 [![gn.dev.br](gndevbr.svg)](https://gn.dev.br)
 
